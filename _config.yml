@@ -1,16 +1,6 @@
-layout_spectrum: 1
 name: Birthquakes
-color:
-  brandStrength: 0.8255319
-  saturation: 0.3574468
-  brandColors:
-    - '#FFFFFF'
-    - '#280426'
-    - '#AC786E'
-    - '#91534A'
-    - '#EABDA2'
-  lightness: 0.7425532
-  rhythmicContrast: 0.8851064
+favicon: null
+layout_spectrum: 1
 typography_spectrum: 0.4744681
 collections:
   - index:
@@ -24,3 +14,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: Doulas In Chicago Doulas in Los Angeles
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#280426'
+    - '#AC786E'
+    - '#91534A'
+    - '#EABDA2'
+  brandStrength: 0.8255319
+  lightness: 0.7425532
+  saturation: 0.3574468
+  rhythmicContrast: 0.8851064
+purpose: []
