@@ -14,7 +14,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: The best Doula in Chicago and Los Angeles
+title: Doula in Chicago and Los Angeles
 cta:
   domain: null
   bucket: null
