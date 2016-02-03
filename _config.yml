@@ -20,7 +20,7 @@ cta:
   bucket: null
   version: null
 analytics:
-  google: 'http://birthquakes.com'
+  google: 184.168.221.60
   facebook: null
   twitter: null
 opengraph:
