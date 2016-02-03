@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Birthquakes]]></title>
+        <description><![CDATA[Birthquakes]]></description>
+        <link>https://thegrid.ai/birthquakes/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 03 Feb 2016 03:03:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/birthquakes/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Contact</p>]]></description>
+            <link>https://thegrid.ai/birthquakes/4a8b7e06-a3b3-4829-a7aa-9ccde15e200c/index.html</link>
+            <guid isPermaLink="false">4a8b7e06-a3b3-4829-a7aa-9ccde15e200c</guid>
+            <pubDate>Wed, 03 Feb 2016 03:03:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Testimonials</p>]]></description>
+            <link>https://thegrid.ai/birthquakes/5a5053fd-99f5-4881-95ca-0f303de8bf9f/index.html</link>
+            <guid isPermaLink="false">5a5053fd-99f5-4881-95ca-0f303de8bf9f</guid>
+            <pubDate>Wed, 03 Feb 2016 03:03:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
