@@ -1,7 +1,19 @@
-name: Birthquakes
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.63343
+color:
+  brandStrength: 0.8255319
+  saturation: 0.25
+  brandColors:
+    - '#260324'
+    - '#fdfaee'
+    - '#674135'
+    - '#b67e6f'
+    - '#eebd9d'
+  lightness: 0.0625
+  rhythmicContrast: 1
+title: Doula in Chicago and Los Angeles
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 collections:
   - index:
       navigable: true
@@ -14,28 +26,16 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: Doula in Chicago and Los Angeles
 cta:
-  domain: null
-  bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+  bucket: null
+  domain: null
+favicon: null
+layout_spectrum: 1
+purpose: []
+name: Birthquakes
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#260324'
-    - '#fdfaee'
-    - '#674135'
-    - '#b67e6f'
-    - '#eebd9d'
-  brandStrength: 0.8255319
-  lightness: 0.0625
-  saturation: 0.25
-  rhythmicContrast: 1
-purpose: []
+typography_spectrum: 0.63343
