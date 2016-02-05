@@ -11,9 +11,9 @@ color:
   rhythmicContrast: 1
 title: Doula in Chicago and Los Angeles
 analytics:
-  twitter: null
-  google: null
   facebook: null
+  google: null
+  twitter: null
 collections:
   - index:
       navigable: true
@@ -27,9 +27,9 @@ collections:
     permalink:
       path: '/:title/'
 cta:
+  domain: null
   version: null
   bucket: null
-  domain: null
 favicon: null
 layout_spectrum: 1
 purpose: []
