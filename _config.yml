@@ -34,8 +34,8 @@ color:
     - '#a0908d'
     - '#cabbae'
     - '#eee6d3'
-  brandStrength: 0.8255319
-  lightness: 0.3125
-  saturation: 0.25
-  rhythmicContrast: 1
+  brandStrength: 0.25
+  lightness: 0.625
+  saturation: 0.5625
+  rhythmicContrast: 0.75
 purpose: []
